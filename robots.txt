@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://premier-tech.onrender.com/sitemap.xml
